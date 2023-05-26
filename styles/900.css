@@ -1,0 +1,5 @@
+.about-cards{
+    grid-template-columns: repeat(2, minmax(450px, 500px));
+    grid-template-rows: repeat(2, 1fr);
+    place-content: center;
+}

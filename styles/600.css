@@ -1,0 +1,15 @@
+.main-table-container{
+    justify-content: center;
+    max-width: 600px;
+    overflow-x: visible;
+}
+
+.plans-options{
+    gap: .5rem;
+    overflow-x: inherit;
+    padding: 0 .5rem;
+}
+
+footer{
+    justify-content: space-evenly;
+}
